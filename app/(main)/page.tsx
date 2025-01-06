@@ -4,7 +4,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div className="bg-gray-50">
-      Ana Sayfa
+      Ana Sayfa git test
     </div>
   )
 }
